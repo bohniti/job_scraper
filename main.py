@@ -31,6 +31,8 @@ for job in job_titles:
             print(url)
             response = requests.get(url)
             soup = BeautifulSoup(response.content, 'html.parser')
+            #TODO Only for Debug deleateit  later
+            print(soup.get_text())
             try:
                 scrape_result = soup.find('div', class_='filter-values-container__filter-values')
                 scrape_result = [text for text in scrape_result.stripped_strings]
