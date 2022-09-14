@@ -1,0 +1,5 @@
+job,job_location,scrape_result,scrape_time
+Data%20Engineer,Austria,"['Past 24 hours (44)', 'Past Week (229)', 'Past Month (640)', 'Any Time (914)']",2022-09-14 16:14:08.167368
+Data%20Analyst,Austria,"['Past 24 hours (59)', 'Past Week (272)', 'Past Month (718)', 'Any Time (1,030)']",2022-09-14 16:14:09.265260
+Data%20Scientist,Austria,"['Past 24 hours (55)', 'Past Week (216)', 'Past Month (614)', 'Any Time (877)']",2022-09-14 16:14:10.289213
+Machine%20Learning%20Engineer,Austria,"['Past 24 hours (44)', 'Past Week (172)', 'Past Month (447)', 'Any Time (638)']",2022-09-14 16:14:11.363289
