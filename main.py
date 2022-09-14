@@ -43,4 +43,3 @@ for job in job_titles:
                 scrape_result,
                 datetime.now()
             ])
-            break
